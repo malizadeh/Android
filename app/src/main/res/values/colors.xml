@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#1A1A1A</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="yellow">#FFBB3B</color>
+    <color name="darkGrey">#212121</color>
+    <color name="gray">#A2A2A2</color>
+    <color name="registerGray">#A3A3A3</color>
+    <color name="iconGray">#C6C6C6</color>
+    <color name="iconYellow">#FFB52A</color>
+    <color name="ratingYellow">#FFB428</color>
+    <color name="descriptionGray">#CBCBCB</color>
+    <color name="backButtonGray">#BFBFBF</color>
+    <color name="black">#000000</color>
+    <color name="white">#fff</color>
+
+    <color name="startYellowButton">#FFBB3B</color>
+    <color name="endYellowButton">#ffa90a</color>
+</resources>
